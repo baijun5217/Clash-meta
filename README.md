@@ -1,5 +1,5 @@
 # Clash-meta
-自用的clash meta配置
+自用的clash meta配置, 解决向日葵远程失败的问题
 
 ```
 # true 是启用
@@ -390,4 +390,3 @@ rules:
   - MATCH,🐟 漏网之鱼
 
 
-## 解决向日葵远程失败的问题
